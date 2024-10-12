@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Pravin+Choudhary;I+am+an+emerging+technologist;I+am+currently+tackling+the+100+Days+of+LeetCode+challenge&font=Consolas&color=50C878&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
 
-<a href="https://linkedin.com/in/pravin-choudhary750" target="_blank">
-  <img align="right" src="https://github.com/PravinChoudhary/PravinChoudhary/blob/main/your-profile-image.png" height="200px" />
-</a>
-
 
 # 💫 About Me:
 <br>👋 Hi, I'm Pravin Choudhary<br><br>🎓 I'm pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University.  <br>💻 I’m skilled in C++ and currently tackling the 100 Days of LeetCode challenge.  <br>🌱 I’m learning advanced C++ concepts and diving deeper into problem-solving.  <br>🤝 I’m open to collaborations on C++ projects and competitive programming.  <br>📫 How to reach me: pravinofficial750@gmail.com  <br>
