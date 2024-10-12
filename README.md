@@ -1,11 +1,3 @@
-<!--
-
-### Hi there 👋
-
-**PravinChoudhary/PravinChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 <br>👋 Hi, I'm Pravin Choudhary<br><br>🎓 I'm pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University.  <br>💻 I’m skilled in C++ and currently tackling the 100 Days of LeetCode challenge.  <br>🌱 I’m learning advanced C++ concepts and diving deeper into problem-solving.  <br>🤝 I’m open to collaborations on C++ projects and competitive programming.  <br>📫 How to reach me: pravinofficial750@gmail.com  <br>
 
