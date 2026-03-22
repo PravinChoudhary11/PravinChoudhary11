@@ -30,7 +30,7 @@ I'm a **Computer Science & Engineering** student at **Lovely Professional Univer
   <a href="https://github.com/PravinChoudhary11">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.gg/CZSh7zbg">
+  <a href="https://discord.gg/DjQYbeHT">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/pravin-choudhary">
