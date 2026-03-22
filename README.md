@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+I'm+Pravin+%F0%9F%91%8B;Computer+Science+Engineer;Full-Stack+Explorer;Always+building+something+new&font=Fira+Code&color=6EE7B7&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+I'm+Pravin+%F0%9F%91%8B;Backend+Engineer+%7C+CSE+Student;Building+CLIs%2C+APIs+%26+Web+Apps;Always+shipping+something+new&font=Fira+Code&color=6EE7B7&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
 
 <br/>
@@ -10,13 +10,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering** student at **Lovely Professional University**, passionate about building robust systems and exploring the full breadth of modern software development.
+I'm a **Computer Science & Engineering** student at **Lovely Professional University**, focused on backend development, CLI tooling, and full-stack web applications.
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at **LPU**
-- 🔭 Currently exploring **system design**, **backend development**, and **open-source contributions**
-- 🌱 Deepening my expertise in **C++**, **Java**, and **web technologies**
-- 🤝 Open to collaborating on interesting projects — let's build something great
-- 📫 Reach me at **pravinofficial750@gmail.com**
+- 🎓 Pursuing B.Tech in CSE at **LPU** — CGPA: **8.03**
+- 🔭 Currently building with **Spring Boot**, **Java**, and **REST APIs**
+- 🌱 Deepening expertise in **backend architecture**, **PostgreSQL**, and **cloud platforms**
+- 🚀 Shipped real projects — from e-commerce stores to developer CLI tools
+- 🤝 Open to collaborating on backend or full-stack projects
+- 📫 Reach me at **mail.pravinchoudhary@gmail.com**
 
 <br/>
 
@@ -25,6 +26,9 @@ I'm a **Computer Science & Engineering** student at **Lovely Professional Univer
 <p align="left">
   <a href="https://linkedin.com/in/pravin-choudhary750">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/PravinChoudhary11">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/__2003___pravin">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -35,10 +39,36 @@ I'm a **Computer Science & Engineering** student at **Lovely Professional Univer
   <a href="https://stackoverflow.com/users/pravin-choudhary">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://quora.com/profile/Pravin-Choudhary-303">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" />
-  </a>
 </p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔧 Gimbal — CLI Developer Environment Bootstrapper
+> *Dec 2025 – Jan 2026*
+
+A lightweight CLI tool that automates setup of full developer environments (Java, Maven, Node, Python). Features modular command processing, version tracking, update checks, and executable JAR packaging via Maven.
+
+`Java` `Maven` `CLI Architecture` `Git`
+
+---
+
+### 🏗️ Unishare Backend System — Scalable Spring Boot Backend
+> *Sep 2025 – Oct 2025*
+
+RESTful backend for user authentication, resource sharing, and data operations. Built with Spring Boot, PostgreSQL, and JPA/Hibernate with a clean service-layer architecture.
+
+`Spring Boot` `Java` `REST APIs` `PostgreSQL` `JPA/Hibernate` `Maven`
+
+---
+
+### 🛍️ RangoliStore.me — E-Commerce Platform
+> *Dec 2024 – Mar 2025*
+
+Full-stack e-commerce store with product browsing, auth, and checkout. Deployed and maintained end-to-end with continuous performance improvements.
+
+`Next.js` `React.js` `Strapi` `PostgreSQL` `Tailwind CSS`
 
 <br/>
 
@@ -46,21 +76,26 @@ I'm a **Computer Science & Engineering** student at **Lovely Professional Univer
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Web & Markup**
+**Frameworks & Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Strapi](https://img.shields.io/badge/Strapi-%232F2E8B.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases & Platforms**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <br/>
 
