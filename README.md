@@ -12,7 +12,7 @@
 
 I'm a **Computer Science & Engineering** student at **Lovely Professional University**, focused on backend development, CLI tooling, and full-stack web applications.
 
-- 🎓 Pursuing B.Tech in CSE at **LPU** — CGPA: **8.03**
+- 🎓 Pursuing B.Tech in CSE at **LPU** — CGPA: **8.04**
 - 🔭 Currently building with **Spring Boot**, **Java**, and **REST APIs**
 - 🌱 Deepening expertise in **backend architecture**, **PostgreSQL**, and **cloud platforms**
 - 🚀 Shipped real projects — from e-commerce stores to developer CLI tools
